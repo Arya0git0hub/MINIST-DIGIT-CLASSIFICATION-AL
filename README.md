@@ -1,4 +1,4 @@
-# MINIST-DIGIT-CLASSIFICATION-AL
+# MNIST-DIGIT-CLASSIFICATION-AL
 # MNIST Digit Classification using Neural Networks
 
 ## Project Overview
